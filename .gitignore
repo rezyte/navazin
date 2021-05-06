@@ -1,0 +1,14 @@
+.pycache
+env/
+venv/
+
+.env
+.venv
+
+sercrets.json
+
+dbtest.sqlite3
+pycache/
+
+media
+static
